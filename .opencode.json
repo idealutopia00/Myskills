@@ -1,0 +1,14 @@
+{
+  "permission": {
+    "skill": {
+      "*": "allow"
+    }
+  },
+  "agent": {
+    "default": {
+      "tools": {
+        "skill": true
+      }
+    }
+  }
+}
